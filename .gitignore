@@ -10,3 +10,14 @@ node_modules
 .output
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Rogo
+.rogo
+Local.rogo
+BuildLocal.rogue
+/Build
+
+# Vim
+*.swo
+*.swp
+*~
